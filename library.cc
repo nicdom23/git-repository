@@ -7,6 +7,6 @@ int fibonacci(int n){
 }
 void new_function(){
 
-	std::cout << "input of an old message";
+	std::cout << "input of an old message"<< std::endl;
 
 }
